@@ -52,7 +52,7 @@ This boilerplate features all the latest tools and practices in the industry.
 - _Test_ - Jest with Enzyme
 - _Lint_ - ESlint
 - _Styles_ - SCSS Styling
-- _CS-in-JS_ - Glamor, for referencing CSS inside JS components without using Webpack. Eg:-(https://gist.github.com/iest/b2634c327c40cd81617ed2952d11dcb8)
+- _CSS-in-JS_ - Glamor, for referencing CSS inside JS components without using Webpack. Eg:-(https://gist.github.com/iest/b2634c327c40cd81617ed2952d11dcb8)
 
 Here are a few highlights to look out for in this boilerplate 
 
